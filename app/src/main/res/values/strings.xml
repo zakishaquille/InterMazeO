@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">interMAZEo 171116006_Amanda</string>
+    <string name="start" translatable="false">START</string>
+    <string name="select_size">Select size of the maze:</string>
+    <string name="size_1" translatable="false">10 x 10</string>
+    <string name="size_2" translatable="false">15 x 15</string>
+    <string name="size_3" translatable="false">20 x 20</string>
+    <string name="size_4" translatable="false">25 x 25</string>
+    <string name="custom_size">Custom size</string>
+    <string name="edit_text_rows">Rows</string>
+    <string name ="edit_text_cols">Columns</string>
+    <string name="enter_rows">Enter number of rows:</string>
+    <string name="enter_cols">Enter number of columns:</string>
+    <string name="ok" translatable="false">OK</string>
+    <string name="about">by Amanda Febrianti (171116006)</string>
+</resources>
